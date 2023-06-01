@@ -1,9 +1,9 @@
 # Experiment-4-Implementation-of-MLP-for-non-linear-separable-problem
-**AIM:**
+## AIM:
 
 To implement a perceptron for classification using Python
 
-**EQUIPMENTS REQUIRED:**
+## EQUIPMENTS REQUIRED:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
@@ -44,7 +44,7 @@ Step 4 : Test for the XOR patterns.
 NAME : K.MURALIKRISHNAN
 REG NO: 212221040108
 ```
-```
+```Python
 import numpy as np
 import pandas as pd
 import io
@@ -110,10 +110,8 @@ predict(w1,w2,test)
 ```
     
 **OUTPUT :**
-
-![](a.png)
-
-![](b.png)
+![](x.png)
+![](y.png)
 
 **RESULT :**
 Thus we have implemented a perceptron for classification using Python.
